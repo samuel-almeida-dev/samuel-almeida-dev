@@ -8,10 +8,8 @@
 - 🚀 Comecei a estudar programação em 2024 e estou amando cada descoberta
 
 ## Minhas Habilidades
-- HTML5 (Avançado)
-- CSS3 (Avançando)
-- JavaScript (Básico)
-- React (Básico)
+<img src="https://img.icons8.com/?size=48&id=20909&format=png"> <img src="https://img.icons8.com/?size=48&id=21278&format=png"> 
+<img src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png"> <img src="https://img.icons8.com/?size=48&id=52539&format=png">
 
 ## O Que Estou Fazendo Atualmente
 - 🔭 Trabalhando no meu crescimento como desenvolvedor
