@@ -1,7 +1,6 @@
 # 👋 Oi! Eu sou Samuel Almeida
 
 ## Sobre mim
-- 🎂 25 anos
 - 🌍 Moro em Fortaleza - CE
 - 🎓 Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas
 - 💻 Atualmente estagiário na BU de DWF na Lanlink
